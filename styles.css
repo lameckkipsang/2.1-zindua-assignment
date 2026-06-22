@@ -19,3 +19,18 @@ padding: 1.5em;
 background: #fafafa;
 border: 1px solid #ddd;
 }
+h2 + p {
+    color: #e74c3c;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+.price-tag > span{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2ecc71;
+}
+footer a{
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+}
